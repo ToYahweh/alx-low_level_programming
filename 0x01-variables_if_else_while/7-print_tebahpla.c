@@ -3,7 +3,7 @@
 /**
 * main - print the alphabets in reverse order 
 * followed by a new line
-* Retirn: Always 0 (success)
+* Return: Always 0 (success)
 */
 
 int main(void)
